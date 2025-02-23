@@ -6,7 +6,9 @@ NOTE: Ame is still in developmental stages, meaning YOU need to run her locally,
 ˚ʚ♡ɞ˚  Big thank-you to lutfi (https://amiritefellas.tumblr.com/) for helping me start this project right, and for occasional corrections. This could not be possible without lutfi!
 
 ˚ʚ♡ɞ˚  Current features:
+
 ability to chat in-character
+
 ability to send a picture of herself (from 10 options) with the prompt "send me a selfie"
 
 NOTE: Ame does not see images yet. If you send her an image you will get no response. It can also BREAK the following responses and you will need to restart the program.
