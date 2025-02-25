@@ -11,7 +11,11 @@ ability to chat in-character
 
 ability to send a picture of herself (from 10 options) with the prompt "send me a selfie"
 
-NOTE: Ame does not see images yet. If you send her an image you will get no response. It can also BREAK the following responses and you will need to restart the program.
+ability to send a picture of kangel (from 17 options) with the prompt "send me a kangel pic"
+
+ability to "see" images and respond to them
+
+awareness of the time in Japan
 
 ˚ʚ♡ɞ˚ How to use (ALL FREE): 
 
