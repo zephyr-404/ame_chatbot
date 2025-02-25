@@ -7,15 +7,15 @@ NOTE: Ame is still in developmental stages, meaning YOU need to run her locally,
 
 ˚ʚ♡ɞ˚  Current features:
 
-ability to chat in-character
+    - ability to chat in-character
 
-ability to send a picture of herself (from 10 options) with the prompt "send me a selfie"
+    - ability to send a picture of herself (from 10 options) with the prompt "send me a selfie"
 
-ability to send a picture of kangel (from 17 options) with the prompt "send me a kangel pic"
+    - ability to send a picture of kangel (from 17 options) with the prompt "send me a kangel pic"
 
-ability to "see" images and respond to them
+    - ability to "see" images and respond to them
 
-awareness of the time in Japan
+    - aware of the time in Japan
 
 ˚ʚ♡ɞ˚ How to use (ALL FREE): 
 
