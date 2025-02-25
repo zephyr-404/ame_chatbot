@@ -25,7 +25,9 @@ Download Python (https://www.python.org)
 
 Create a Twilio account (https://www.twilio.com/en-us) 
 
-Run ame.py
+Run shell_module_install.bat to install all Python requirements for the program
+
+Run ame1.2.py
 
 Run ngrok and type in “ngrok http 5000”
 
