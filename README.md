@@ -27,7 +27,11 @@ Create a Twilio account (https://www.twilio.com/en-us)
 
 Run shell_module_install.bat to install all Python requirements for the program
 
-Run ame1.2.py
+Get an API key for Gemini, and open your Twilio console to find your credentials (account_sid and auth_token).
+
+Open ame.py in Notepad and replace the "YOUR API KEY HERE" with your Gemini API key, then replace the Twilio placeholder credentials with your own.
+
+Run ame.py
 
 Run ngrok and type in “ngrok http 5000”
 
